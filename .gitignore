@@ -1,0 +1,4 @@
+# dotenv, dotenv-rails
+.env
+# Ignore node_modules
+node_modules/
